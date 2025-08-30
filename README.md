@@ -21,8 +21,6 @@ The analysis confirms that the new checkout page design (Variant B) provides a *
 **Recommendation:** Roll out the new design to 100% of users. This change is projected to increase conversions by over 18%.
 
 ## Project Structure
-ab-test-analysis/
-├── ab_test_analysis.ipynb  # Full analysis code
-├── data/
-│   └── ab_test_data.csv    # Dataset used
-└── README.md               # This file
+- **ab_test_analysis.ipynb**: Jupyter Notebook containing the full Python analysis code.
+- **data/ab_test_data.csv**: The simulated dataset used for the A/B test.
+- **README.md**: This project overview and documentation.
