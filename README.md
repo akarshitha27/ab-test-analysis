@@ -22,7 +22,7 @@ The analysis confirms that the new checkout page design (Variant B) provides a *
 
 ## Project Structure
 ab-test-analysis/
-├── ab_test_analysis.ipynb # Full analysis code
+├── ab_test_analysis.ipynb  # Full analysis code
 ├── data/
-│ └── ab_test_data.csv # Dataset used
-└── README.md # This file
+│   └── ab_test_data.csv    # Dataset used
+└── README.md               # This file
